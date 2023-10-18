@@ -1,4 +1,4 @@
-# CRPS2_VS
+# CRPS2 Exoskeletons by MRI @ TUM
 Repository for the CAD files and firmwares of the exoskeletons for CRPS treatment developed during the ongoing research effort at the Clinic for Orthopaedics and Sports Orthopaedics at MRI (TUM).
 
 Currently uploaded:
